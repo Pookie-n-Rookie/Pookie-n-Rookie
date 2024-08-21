@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pookie-n-Rookie aka Swarnendu Banerjee 
 - 👀 I’m interested in Ai,data science etc.
-- 🌱 I’m currently learning various neural networks CNN,RNN and django
+- 🌱 I’m currently learning various neural networks and django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : through linkedIn,Instagram 
 - 😄 Pronouns: He/Him
