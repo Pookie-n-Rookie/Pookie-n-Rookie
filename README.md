@@ -12,23 +12,5 @@
 
 
 
-## GitHub Profile Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Pookie-n-Rookie&column=10&theme=matrix)
-
-
-
-
-
-## Profile Status:
-
-![](https://github-readme-stats.vercel.app/api?username=Pookie-n-Rookie&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
-![contribute](https://github-contributor-stats.vercel.app/api?username=Pookie-n-Rookie&limit=7&contributions=true&hide=B%2B&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pookie-n-Rookie&langs_count=20&theme=transparent&layout=compact)
-
-![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pookie-n-Rookie&theme=github_dark)
-
-[![Pookie-n-Rookie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pookie-n-Rookie&theme=merko)](https://github.com/Pookie-n-Rookie)
-
 
 
