@@ -17,11 +17,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Pookie-n-Rookie&column=10&theme=matrix)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pookie-n-Rookie/Pookie-n-Rookie/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pookie-n-Rookie/Pookie-n-Rookie/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pookie-n-Rookie/Pookie-n-Rookie/output/github-snake.svg" />
-</picture>
+
 
 
 ## Profile Status:
