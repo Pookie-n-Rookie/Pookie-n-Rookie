@@ -1,119 +1,148 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Swarnendu%20%20Banerjee%20&text2=%F0%9F%92%96%20A%20Passionate%20Coder,Developer%20and%20Debugger&width=900&height=400)
-
-<img height="auto" src="https://komarev.com/ghpvc/?username=Pookie-n-Rookie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-
-<p align="left">  
-  <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt="tr"/>  
-</p>  
-
-<p align="left">  
-  <img height="auto" src="https://github-profile-trophy.vercel.app/?username=Pookie-n-Rookie&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="trophy" />  
-</p>  
-
-### 🌱 I’m currently learning  
-
-**Golang & Gen AI**  
-
-### 💬 Ask me about  
-
-**Machine Learning, Deep Learning, and Python**  
-
-### 😂 Fun Fact  
-
-**😏 My APIs never get throttled, my WebSockets never disconnect, and my gRPC latency? Let’s just say it’s lower than your chances of ghosting me first. 🚀**  
-
-### 📫 How to reach me  
-
-💭 Got a billion-dollar idea? A world-changing project? Or just wanna talk AI over coffee? Hit me up, and let’s create something the world can’t ignore.  
-
-📩 Drop an email that’s RESTful, not stressful: [SB](mailto:banerjeeswarnendu6@gmail.com)  
-
-💬 DMs open for devs who think in O(1): [Instagram](https://www.instagram.com/your_instagram_username)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&vCenter=true&lines=Hey%2C+I'm+Swarnendu+Banerjee+%F0%9F%91%8B;AI+Developer+%7C+IT+Engineer+%7C+Problem+Solver;Grinding+to+become+the+best+version+of+myself+%F0%9F%92%AA" alt="Typing SVG" />
+  </a>
+</h1>
 
 
+## 🧠 #include <me.h>
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+#define SWARNENDU constantly_improving++
 
 
-### 🔗 Connect with me  
+namespace swarnendu {
 
-<p align="left">  
-  <a href="https://github.com/Pookie-n-Rookie" target="blank">  
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />  
-  </a>  
-  <a href="https://www.linkedin.com/in/swarnendu-banerjee-78aa49298/" target="blank">  
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
-  </a>  
-</p>  
+class LifeLoop {
+public:
+    void run() {
+        while (alive) {
+            code++;
+            gym++;
+            debug("life"); // sometimes harder than C++
+        }
+    }
 
+private:
+    bool alive = true;
+    int code = 0;
+    int gym = 0;
 
-### 🛠️ Languages and Tools  
+    void debug(const string& context) {
+        cout << "🧠 Debugging: " << context << " — brb fixing everything except my sleep schedule\n";
+    }
+};
 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left" style="display: flex; gap: 5px; flex-wrap: wrap;">  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">  
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>  
-  </a>  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>  
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>  
-  </a>  
-  <a href="https://golang.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  </a>  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>  
-  </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>  
-  </a>  
-  <a href="https://redis.io" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>  
-  </a>  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>  
-  </a>  
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>  
-  </a>  
+class Swarnendu {
+public:
+    // 🧠 Identity Crisis Included
+    string summary = "50% DSA, 50% AI, 100% confused 🤯";
+
+    vector<string> tagline = {
+        "🪲 Turning bugs into features since 🐣",
+        "🧠 Mentally const, emotionally volatile",
+        "⚠️ 99.9% uptime (except Mondays)",
+        "☕ return (confidence || caffeine);"
+    };
+
+    string motto = "";
+
+    // 💻 Tech stack (and emotional baggage)
+    vector<string> frontend = {
+        "🧬 Next.js 15", "🎨 Tailwind", "🧩 shadcn/ui", "🎭 Framer Motion (for dramatic bugs)"
+    };
+    vector<string> backend = {
+        "⚡ FastAPI", "🐍 Django REST", "🪄 LangChain (aka LMAOChain)", "🛠️ Express"
+    };
+    vector<string> databases = {
+        "🐘 PostgreSQL", "🧙 Prisma", "🧠 Redis (used more than my own memory)", "🚀 FAISS (Fast AF)"
+    };
+    vector<string> ai_ml = {
+        "🤗 HuggingFace", "👁️ OpenCV (sees bugs I don't)", 
+        "🧠 GANs", "🤖 Transformers", "🕸️ GNNs (like social networks but for neurons)"
+    };
+    vector<string> devops = {
+        "🐳 Docker — because 'it works on my machine' is a lifestyle"
+    };
+    vector<string> languages = {
+        "🧾 C++ (master of TLE)", "🐍 Python (indentation PTSD)", 
+        "☕ Java (and pain)", "📦 TypeScript (trust issues)", "🧱 C (raw and unfiltered)"
+    };
+
+    // ⚔️ Special Abilities
+    vector<string> specialMoves = {
+        "🔍 Binary search for inner peace",
+        "🚪 Sliding window on responsibilities",
+        "🧮 DP-ing through existential dread",
+        "💸 Greedy for learning, not shortcuts"
+    };
+
+    // 📆 Daily Grind
+    vector<string> dailyRoutine = {
+        "💻 git commit -m 'fix: mood swings'",
+        "🧠 AI training by day, debugging brain by night",
+        "🏋️ return (gym && grind); // strong body, stronger segfaults"
+    };
+
+    // 🎭 Personality Dump
+    vector<string> funFacts = {
+        "😴 I don’t sleep(), I suspend()",
+        "⌛ Currently compiling life... 42% done",
+        "🫠 Embracing errors like 404: Motivation not found",
+        "🤖 My resume passed the Turing Test (barely)",
+        "🧩 low + (high - low)/2 is how I find myself"
+    };
+
+    // 😡 When WA meets caffeine
+    void rageMode() {
+        if (WA || TLE) {
+            cerr << "🔥 'I am inevitable.' — debugger\n";
+        }
+    }
+
+    // 🔁 Retry until AC (or coffee overdose)
+    void errorHandling() {
+        try {
+            success();
+        } catch (const exception& e) {
+            learn(e.what());
+            retry();
+        }
+    }
+
+private:
+    bool WA = true;
+    bool TLE = false;
+
+    void success() {
+        cout << "✅ Success achieved! (Miracles do happen)\n";
+    }
+
+    void learn(const string& e) {
+        cout << "📚 Learning from: " << e << "\n";
+    }
+
+    void retry() {
+        cout << "🔁 Retrying... hopefully not in production\n";
+    }
+};
+
+} // namespace swarnendu
+```
+
+## 
+<p align="left">
+  <a href="www.linkedin.com/in/swarnendu-banerjee-78aa49298" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+  </a>
+  
+  <a href="https://leetcode.com/u/SB_378/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40">
+  </a>
+  
+  <a href="https://codeforces.com/profile/_SIMPLE_GUY_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40">
+  </a>
 </p>
 
- 
-
-### 📊 GitHub Stats  
-
-<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api?username=Pookie-n-Rookie&show_icons=true&theme=dark&locale=en&hide_border=false" alt="GitHub Stats" />  
-
-<img align="left" height="auto" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Pookie-n-Rookie&theme=dark&mode=weekly&hide_border=false&locale=en" alt="GitHub Streak" />  
-
-<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pookie-n-Rookie&theme=dark&hide_border=false" alt="Top Languages" />  
