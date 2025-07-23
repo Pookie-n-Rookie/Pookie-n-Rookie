@@ -9,7 +9,6 @@
 ```py
 class Swarnendu:
     summary = "50% DSA, 50% AI, 100% Confused... and still compiling."
-
     identity = {
         "tagline": [
             "🪲 Turning bugs into features since main()",
@@ -24,7 +23,6 @@ class Swarnendu:
         "multithreading": "self.threads = ['main', 'overthinking', 'side quests']",
         "os_mode": "if os.name == 'nt': crash(); else: segfault()"
     }
-
     tech_stack = {
     "frontend": [
         "🧬 Next.js 15", 
@@ -55,13 +53,11 @@ class Swarnendu:
         "🪵 Logging my life choices"
     ]
 }
-
     languages = [
         "🧾 C++ (TLE artist 🎨)", "🐍 Python (indentation therapist)",
         "☕ Java (daily pain generator)", "📦 TypeScript (because JavaScript needs boundaries)", 
         "⚙️ C (bare metal chaos)"
     ]
-
     special_moves = [
         "🔍 Binary search emotional stability",
         "🚪 Sliding window on responsibilities",
@@ -69,14 +65,12 @@ class Swarnendu:
         "💸 Greedy for growth, not shortcuts",
         "🤹 Forking life decisions without joining()"
     ]
-
     daily_routine = [
         "🧠 git commit -m 'fix: mood swings'",
         "🔁 crontab: coffee && code && gym",
         "🏋️‍♂️ return gym and grind  # strong body, stronger exception handling",
         "⏱️ sleep(6)  # maybe"
     ]
-
     fun_facts = [
         "💤 I don’t `sleep()`, I `suspend()`",
         "⌛ Status: Compiling life... 87% (with warnings)",
@@ -87,7 +81,6 @@ class Swarnendu:
         "🧵 Mutex for thoughts still pending",
         "📂 Life is in ~/Downloads and not backed up"
     ]
-
     def __str__(self):
         return "Swarnendu v2025 — now with extra sarcasm and async dreams 🚀"
 
@@ -98,7 +91,6 @@ class Swarnendu:
   <a href="www.linkedin.com/in/swarnendu-banerjee-78aa49298" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
-  
   <a href="https://leetcode.com/u/SB_378/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40">
   </a>
@@ -107,4 +99,5 @@ class Swarnendu:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40">
   </a>
 </p>
+
 
