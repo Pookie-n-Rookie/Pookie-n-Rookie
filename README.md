@@ -5,133 +5,95 @@
 </h1>
 
 
-## 🧠 #include <me.h>
-```cpp
-#include<bits/stdc++.h>
-using namespace std;
-#define SWARNENDU constantly_improving++
+## 🧠 ME.py
+```py
+class Swarnendu:
+    summary = "50% DSA, 50% AI, 100% Confused... and still compiling."
 
-
-namespace swarnendu {
-
-class LifeLoop {
-public:
-    void run() {
-        while (alive) {
-            code++;
-            gym++;
-            debug("life"); // sometimes harder than C++
-        }
+    identity = {
+        "tagline": [
+            "🪲 Turning bugs into features since main()",
+            "🧠 Mentally `const`, emotionally `volatile`",
+            "⚡ 99.9% uptime (except Mondays and merge conflicts)",
+            "☕ return (confidence || caffeine);"
+        ],
+        "motto": "#define SWARNENDU 'constantly improving++'",
+        "loop": "while(alive): code += 1; gym += 1; debug(life)",
+        "error_handling": "try: success() except Exception as e: learn(e); retry()",
+        "rage_mode": "if WA or TLE: raise KeyboardInterrupt('I am inevitable. — debugger')",
+        "multithreading": "self.threads = ['main', 'overthinking', 'side quests']",
+        "os_mode": "if os.name == 'nt': crash(); else: segfault()"
     }
 
-private:
-    bool alive = true;
-    int code = 0;
-    int gym = 0;
+    tech_stack = {
+    "frontend": [
+        "🧬 Next.js 15", 
+        "🎨 Tailwind", 
+        "🧩 shadcn/ui", 
+        "🎭 Framer Motion (for dramatic bugs)"
+    ],
+    "backend": [
+        "⚡ FastAPI", 
+        "🐍 Django REST", 
+        "🪄 LangChain (aka LMAOChain)", 
+        "🕸️ LangGraph (plotting my rise to AGI)"
+    ],
+    "databases": [
+        "🐘 PostgreSQL", 
+        "🧠 Redis (used more than my memory)", 
+        "🚀 FAISS (Fast AF Indexing Search System)"
+    ],
+    "ai_ml": [
+        "🤗 HuggingFace", 
+        "👁️ OpenCV (sees better than I do)",
+        "🧠 GANs", 
+        "🤖 Transformers", 
+        "🌐 GNNs"
+    ],
+    "devops": [
+        "🐳 Docker (because it *kinda* works on everyone's machine)", 
+        "🪵 Logging my life choices"
+    ]
+}
 
-    void debug(const string& context) {
-        cout << "🧠 Debugging: " << context << " — brb fixing everything except my sleep schedule\n";
-    }
-};
+    languages = [
+        "🧾 C++ (TLE artist 🎨)", "🐍 Python (indentation therapist)",
+        "☕ Java (daily pain generator)", "📦 TypeScript (because JavaScript needs boundaries)", 
+        "⚙️ C (bare metal chaos)"
+    ]
 
-class Swarnendu {
-public:
-    // 🧠 Identity Crisis Included
-    string summary = "50% DSA, 50% AI, 100% confused 🤯";
-
-    vector<string> tagline = {
-        "🪲 Turning bugs into features since 🐣",
-        "🧠 Mentally const, emotionally volatile",
-        "⚠️ 99.9% uptime (except Mondays)",
-        "☕ return (confidence || caffeine);"
-    };
-
-    string motto = "";
-
-    // 💻 Tech stack (and emotional baggage)
-    vector<string> frontend = {
-        "🧬 Next.js 15", "🎨 Tailwind", "🧩 shadcn/ui", "🎭 Framer Motion (for dramatic bugs)"
-    };
-    vector<string> backend = {
-        "⚡ FastAPI", "🐍 Django REST", "🪄 LangChain (aka LMAOChain)", "🛠️ Express"
-    };
-    vector<string> databases = {
-        "🐘 PostgreSQL", "🧙 Prisma", "🧠 Redis (used more than my own memory)", "🚀 FAISS (Fast AF)"
-    };
-    vector<string> ai_ml = {
-        "🤗 HuggingFace", "👁️ OpenCV (sees bugs I don't)", 
-        "🧠 GANs", "🤖 Transformers", "🕸️ GNNs (like social networks but for neurons)"
-    };
-    vector<string> devops = {
-        "🐳 Docker — because 'it works on my machine' is a lifestyle"
-    };
-    vector<string> languages = {
-        "🧾 C++ (master of TLE)", "🐍 Python (indentation PTSD)", 
-        "☕ Java (and pain)", "📦 TypeScript (trust issues)", "🧱 C (raw and unfiltered)"
-    };
-
-    // ⚔️ Special Abilities
-    vector<string> specialMoves = {
-        "🔍 Binary search for inner peace",
+    special_moves = [
+        "🔍 Binary search emotional stability",
         "🚪 Sliding window on responsibilities",
-        "🧮 DP-ing through existential dread",
-        "💸 Greedy for learning, not shortcuts"
-    };
+        "🧮 DP-ing through existential crisis",
+        "💸 Greedy for growth, not shortcuts",
+        "🤹 Forking life decisions without joining()"
+    ]
 
-    // 📆 Daily Grind
-    vector<string> dailyRoutine = {
-        "💻 git commit -m 'fix: mood swings'",
-        "🧠 AI training by day, debugging brain by night",
-        "🏋️ return (gym && grind); // strong body, stronger segfaults"
-    };
+    daily_routine = [
+        "🧠 git commit -m 'fix: mood swings'",
+        "🔁 crontab: coffee && code && gym",
+        "🏋️‍♂️ return gym and grind  # strong body, stronger exception handling",
+        "⏱️ sleep(6)  # maybe"
+    ]
 
-    // 🎭 Personality Dump
-    vector<string> funFacts = {
-        "😴 I don’t sleep(), I suspend()",
-        "⌛ Currently compiling life... 42% done",
-        "🫠 Embracing errors like 404: Motivation not found",
-        "🤖 My resume passed the Turing Test (barely)",
-        "🧩 low + (high - low)/2 is how I find myself"
-    };
+    fun_facts = [
+        "💤 I don’t `sleep()`, I `suspend()`",
+        "⌛ Status: Compiling life... 87% (with warnings)",
+        "🫠 Catching exceptions faster than feelings",
+        "🤖 My resume passed the Turing Test (on the second try)",
+        "🧩 low + (high - low) // 2 is how I find balance",
+        "🪫 Motivation thread got killed due to resource starvation",
+        "🧵 Mutex for thoughts still pending",
+        "📂 Life is in ~/Downloads and not backed up"
+    ]
 
-    // 😡 When WA meets caffeine
-    void rageMode() {
-        if (WA || TLE) {
-            cerr << "🔥 'I am inevitable.' — debugger\n";
-        }
-    }
+    def __str__(self):
+        return "Swarnendu v2025 — now with extra sarcasm and async dreams 🚀"
 
-    // 🔁 Retry until AC (or coffee overdose)
-    void errorHandling() {
-        try {
-            success();
-        } catch (const exception& e) {
-            learn(e.what());
-            retry();
-        }
-    }
-
-private:
-    bool WA = true;
-    bool TLE = false;
-
-    void success() {
-        cout << "✅ Success achieved! (Miracles do happen)\n";
-    }
-
-    void learn(const string& e) {
-        cout << "📚 Learning from: " << e << "\n";
-    }
-
-    void retry() {
-        cout << "🔁 Retrying... hopefully not in production\n";
-    }
-};
-
-} // namespace swarnendu
 ```
 
-## 
+##  #include<profile.h>
 <p align="left">
   <a href="www.linkedin.com/in/swarnendu-banerjee-78aa49298" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
