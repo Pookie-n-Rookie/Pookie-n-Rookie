@@ -24,29 +24,18 @@ class Swarnendu:
         "os_mode": "if os.name == 'nt': crash(); else: segfault()"
     }
     tech_stack = {
-    "frontend": [
-        "🧬 Next.js 15", 
-        "🎨 Tailwind", 
-        "🧩 shadcn/ui", 
-        "🎭 Framer Motion (for dramatic bugs)"
-    ],
     "backend": [
         "⚡ FastAPI", 
-        "🐍 Django REST", 
         "🪄 LangChain (aka LMAOChain)", 
         "🕸️ LangGraph (plotting my rise to AGI)"
     ],
     "databases": [
         "🐘 PostgreSQL", 
-        "🧠 Redis (used more than my memory)", 
         "🚀 FAISS (Fast AF Indexing Search System)"
     ],
     "ai_ml": [
         "🤗 HuggingFace", 
-        "👁️ OpenCV (sees better than I do)",
-        "🧠 GANs", 
         "🤖 Transformers", 
-        "🌐 GNNs"
     ],
     "devops": [
         "🐳 Docker (because it *kinda* works on everyone's machine)", 
@@ -55,7 +44,7 @@ class Swarnendu:
 }
     languages = [
         "🧾 C++ (TLE artist 🎨)", "🐍 Python (indentation therapist)",
-        "☕ Java (daily pain generator)", "📦 TypeScript (because JavaScript needs boundaries)", 
+        "☕ Java (daily pain generator)", 
         "⚙️ C (bare metal chaos)"
     ]
     special_moves = [
