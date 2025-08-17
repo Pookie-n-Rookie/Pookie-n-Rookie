@@ -82,14 +82,5 @@ class Swarnendu:
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="28" />
 </a>
 
-<a href="https://codeforces.com/profile/_SIMPLE_GUY_">
-  <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces" height="28" />
-</a>
-
-<a href="https://leetcode.com/SB_378/">
-  <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" height="28" />
-</a>
-
-
 
 
