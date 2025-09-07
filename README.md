@@ -28,14 +28,17 @@ class Swarnendu:
         "⚡ FastAPI", 
         "🪄 LangChain (aka LMAOChain)", 
         "🕸️ LangGraph (plotting my rise to AGI)"
+        "🤖 CrewAI (outsourcing my braincells to NPC agents)"
     ],
     "databases": [
         "🐘 PostgreSQL", 
         "🚀 FAISS (Fast AF Indexing Search System)"
+        "🟣 ChromaDB (memory > mine, sadly)"
     ],
     "ai_ml": [
-        "🤗 HuggingFace", 
-        "🤖 Transformers", 
+        "🤗 HuggingFace (because therapy costs more than GPUs)", 
+        "🤖 Transformers (attention is all you need… except from recruiters)",
+        "📉 TensorFlow (my loss function isn’t the only thing not decreasing)"
     ],
     "devops": [
         "🐳 Docker (because it *kinda* works on everyone's machine)", 
@@ -43,7 +46,8 @@ class Swarnendu:
     ]
 }
     languages = [
-        "🧾 C++ (TLE artist 🎨)", "🐍 Python (indentation therapist)",
+        "🧾 C++ (TLE artist 🎨)",
+        "🐍 Python (indentation therapist)",
         "☕ Java (daily pain generator)", 
         "⚙️ C (bare metal chaos)"
     ]
@@ -68,10 +72,11 @@ class Swarnendu:
         "🧩 low + (high - low) // 2 is how I find balance",
         "🪫 Motivation thread got killed due to resource starvation",
         "🧵 Mutex for thoughts still pending",
-        "📂 Life is in ~/Downloads and not backed up"
+        "📂 Life is in ~/Downloads and not backed up",
+        "🥲 sudo apt-get install happiness → E: package not found"
     ]
     def __str__(self):
-        return "Swarnendu v2025 — now with extra sarcasm and async dreams 🚀"
+        return "Swarnendu — now with extra sarcasm and async dreams 🚀"
 
 ```
 
