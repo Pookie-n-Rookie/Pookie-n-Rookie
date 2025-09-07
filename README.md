@@ -80,7 +80,6 @@ class Swarnendu:
 
 ```
 
-##  #include<profile.h>
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/swarnendu-banerjee-78aa49298">
