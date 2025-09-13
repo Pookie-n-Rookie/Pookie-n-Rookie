@@ -59,14 +59,13 @@ class Swarnendu:
         "🤹 Forking life decisions without joining()"
     ]
     daily_routine = [
-        "🧠 git commit -m 'fix: mood swings'",
+        "🧠 git commit -m 'fix: Work Load'",
         "🔁 crontab: coffee && code && gym",
         "🏋️‍♂️ return gym and grind  # strong body, stronger exception handling",
         "⏱️ sleep(6)  # maybe"
     ]
     fun_facts = [
         "💤 I don’t `sleep()`, I `suspend()`",
-        "⌛ Status: Compiling life... 87% (with warnings)",
         "🫠 Catching exceptions faster than feelings",
         "🤖 My resume passed the Turing Test (on the second try)",
         "🧩 low + (high - low) // 2 is how I find balance",
