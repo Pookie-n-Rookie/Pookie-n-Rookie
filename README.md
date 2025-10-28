@@ -7,7 +7,7 @@
 
 ```python
 class Swarnendu:
-    """AI Dev | Bug Whisperer | Gym Rat | Professional Overthinker"""
+    """AI Dev | Bug Whisperer |  Professional Overthinker"""
     
     tagline = "50% DSA, 50% AI, 100% Confused... and still compiling."
     motto = "#define SWARNENDU 'constantly improving++'"
