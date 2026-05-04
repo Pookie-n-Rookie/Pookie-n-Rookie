@@ -1,0 +1,113 @@
+name: Gambling
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  dynamic-stealth-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: The Oracle (Decide Logic & Start Session)
+        run: |
+          # Roll a dice to decide if we do 1, 2, or 3 commits today
+          NUM_COMMITS=$(( (RANDOM % 3) + 1 ))
+          
+          # Save this variable so the next steps know what to do
+          echo "NUM_COMMITS=$NUM_COMMITS" >> $GITHUB_ENV
+          echo "Rolling the dice... Today we are doing $NUM_COMMITS commits. No cap."
+          
+          # Initial session start delay (0 to 60 minutes)
+          sleep $((RANDOM % 3600)) 
+
+      # ==========================================
+      # COMMIT 1: ALWAYS HAPPENS (1, 2, or 3 roll)
+      # ==========================================
+      - name: Commit 1 - Update 'Currently' 🕶️
+        run: |
+          STATUSES=(
+            "Debugging my sleep schedule. No cap."
+            "Pushing straight to main because I like to live dangerously."
+            "Manifesting zero merge conflicts."
+            "Let him cook (I am burning the AWS servers down)."
+            "Refactoring my life choices (O(n!) complexity)."
+            "Writing code that even I won't understand tomorrow."
+            "Architecting systems and writing prompts that actually convert."
+          )
+          
+          NEW_STATUS=${STATUSES[$RANDOM % ${#STATUSES[@]}]}
+          sed -i "s/.*🕶️ Currently:.*/ 🕶️ Currently: $NEW_STATUS/g" README.md
+          
+          git config --global user.name "Swarnendu"
+          git config --global user.email "banerjeeswarnendu6@gmail.com"
+          
+          git add README.md
+          git commit -m "docs: update current status" || echo "No changes"
+          git push
+
+      # ==========================================
+      # COMMIT 2: ONLY HAPPENS ON A 2 OR 3 ROLL
+      # ==========================================
+      - name: Delay for Commit 2 ☕
+        if: ${{ env.NUM_COMMITS >= 2 }}
+        run: |
+          # Waits 3 to 15 minutes
+          sleep $((180 + RANDOM % 720))
+
+      - name: Commit 2 - Update 'Architecture' 🧩
+        if: ${{ env.NUM_COMMITS >= 2 }}
+        run: |
+          ARCH=(
+            "Microservices in the streets, Monolithic breakdown in the sheets."
+            "Event-driven chaos architecture."
+            "Scaling horizontally until my bank account vertically crashes."
+            "Coupled tightly, deployed lightly."
+            "If it compiles, it's an architecture."
+            "Microservices separated by logic, united by APIs."
+          )
+          
+          NEW_ARCH=${ARCH[$RANDOM % ${#ARCH[@]}]}
+          sed -i "s/.*🧩 Architecture:.*/ 🧩 Architecture: $NEW_ARCH/g" README.md
+          
+          git config --global user.name "Swarnendu"
+          git config --global user.email "banerjeeswarnendu6@gmail.com"
+          
+          git add README.md
+          git commit -m "chore: refine architecture specs" || echo "No changes"
+          git push
+
+      # ==========================================
+      # COMMIT 3: ONLY HAPPENS ON A 3 ROLL
+      # ==========================================
+      - name: Delay for Commit 3 🚶‍♂️
+        if: ${{ env.NUM_COMMITS == 3 }}
+        run: |
+          # Simulates stepping away from the keyboard, then coming back for one last tweak.
+          # Waits 5 to 20 minutes
+          sleep $((300 + RANDOM % 900))
+
+      - name: Commit 3 - Update 'Vibe Check' 📊
+        if: ${{ env.NUM_COMMITS == 3 }}
+        run: |
+          VIBES=(
+            "0 bugs found, 100% locked in."
+            "1 bug fixed, 99 new ones created."
+            "Code quality: A+ | Mental stability: 404 Not Found."
+            "Powered by sheer panic and caffeine."
+            "Currently carrying the backend on my back."
+            "My code works, but I honestly don't know why."
+          )
+          
+          NEW_VIBE=${VIBES[$RANDOM % ${#VIBES[@]}]}
+          sed -i "s/.*📊 Vibe Check:.*/ 📊 Vibe Check: $NEW_VIBE/g" README.md
+          
+          git config --global user.name "Swarnendu"
+          git config --global user.email "banerjeeswarnendu6@gmail.com"
+          
+          git add README.md
+          git commit -m "fix: vibe check calibration" || echo "No changes"
+          git push
