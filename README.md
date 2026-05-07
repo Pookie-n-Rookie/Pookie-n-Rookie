@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Let him cook (I am burning the AWS servers down).
- 🧩 Architecture: Scaling horizontally until my bank account vertically crashes.
+ 🧩 Architecture: Microservices separated by logic, united by APIs.
  📊 Vibe Check: 0 bugs found, 100% locked in.
 ```
 
