@@ -8,6 +8,8 @@ on:
 jobs:
   dynamic-stealth-update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -86,7 +88,6 @@ jobs:
       - name: Delay for Commit 3 🚶‍♂️
         if: ${{ env.NUM_COMMITS == 3 }}
         run: |
-          # Simulates stepping away from the keyboard, then coming back for one last tweak.
           # Waits 5 to 20 minutes
           sleep $((300 + RANDOM % 900))
 
