@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Let him cook (I am burning the AWS servers down).
  🧩 Architecture: Event-driven chaos architecture.
- 📊 Vibe Check: 0 bugs found, 100% locked in.
+ 📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
 <div align="center">
