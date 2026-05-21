@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Pushing straight to main because I like to live dangerously.
- 🧩 Architecture: Coupled tightly, deployed lightly.
+ 🧩 Architecture: Scaling horizontally until my bank account vertically crashes.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
