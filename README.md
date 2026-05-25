@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Architecting systems and writing prompts that actually convert.
  🧩 Architecture: Event-driven chaos architecture.
- 📊 Vibe Check: 1 bug fixed, 99 new ones created.
+ 📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
 <div align="center">
