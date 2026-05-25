@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Architecting systems and writing prompts that actually convert.
- 🧩 Architecture: Scaling horizontally until my bank account vertically crashes.
+ 🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: 1 bug fixed, 99 new ones created.
 ```
 
