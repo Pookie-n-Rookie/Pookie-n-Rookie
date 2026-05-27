@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Architecting systems and writing prompts that actually convert.
+ 🕶️ Currently: Writing code that even I won't understand tomorrow.
  🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
