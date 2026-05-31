@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Refactoring my life choices (O(n!) complexity).
  🧩 Architecture: If it compiles, it's an architecture.
- 📊 Vibe Check: Code quality: A+ | Mental stability: 404 Not Found.
+ 📊 Vibe Check: 0 bugs found, 100% locked in.
 ```
 
 <div align="center">
