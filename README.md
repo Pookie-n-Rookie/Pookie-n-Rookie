@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Debugging my sleep schedule. No cap.
- 🧩 Architecture: Scaling horizontally until my bank account vertically crashes.
+ 🧩 Architecture: Microservices in the streets, Monolithic breakdown in the sheets.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
