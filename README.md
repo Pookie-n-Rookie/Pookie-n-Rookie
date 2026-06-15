@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Architecting systems and writing prompts that actually convert.
+ 🕶️ Currently: Let him cook (I am burning the AWS servers down).
  🧩 Architecture: Microservices in the streets, Monolithic breakdown in the sheets.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
