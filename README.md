@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Architecting systems and writing prompts that actually convert.
- 🧩 Architecture: Microservices in the streets, Monolithic breakdown in the sheets.
+ 🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: Code quality: A+ | Mental stability: 404 Not Found.
 ```
 
