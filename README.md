@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Writing code that even I won't understand tomorrow.
- 🧩 Architecture: Coupled tightly, deployed lightly.
+ 🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: 1 bug fixed, 99 new ones created.
 ```
 
