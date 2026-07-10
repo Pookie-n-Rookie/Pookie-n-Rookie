@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Pushing straight to main because I like to live dangerously.
  🧩 Architecture: Coupled tightly, deployed lightly.
- 📊 Vibe Check: Currently carrying the backend on my back.
+ 📊 Vibe Check: Powered by sheer panic and caffeine.
 ```
 
 <div align="center">
