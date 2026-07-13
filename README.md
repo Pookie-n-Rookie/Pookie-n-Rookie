@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Let him cook (I am burning the AWS servers down).
- 🧩 Architecture: Microservices separated by logic, united by APIs.
+ 🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: Currently carrying the backend on my back.
 ```
 
