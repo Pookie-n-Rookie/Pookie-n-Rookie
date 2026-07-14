@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Let him cook (I am burning the AWS servers down).
+ 🕶️ Currently: Writing code that even I won't understand tomorrow.
  🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: 0 bugs found, 100% locked in.
 ```
