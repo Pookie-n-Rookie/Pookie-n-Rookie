@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Writing code that even I won't understand tomorrow.
  🧩 Architecture: Microservices separated by logic, united by APIs.
- 📊 Vibe Check: 0 bugs found, 100% locked in.
+ 📊 Vibe Check: Powered by sheer panic and caffeine.
 ```
 
 <div align="center">
