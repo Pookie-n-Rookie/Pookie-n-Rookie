@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Let him cook (I am burning the AWS servers down).
- 🧩 Architecture: Event-driven chaos architecture.
+ 🧩 Architecture: Scaling horizontally until my bank account vertically crashes.
  📊 Vibe Check: 1 bug fixed, 99 new ones created.
 ```
 
