@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Manifesting zero merge conflicts.
- 🧩 Architecture: Event-driven chaos architecture.
+ 🧩 Architecture: Coupled tightly, deployed lightly.
  📊 Vibe Check: 0 bugs found, 100% locked in.
 ```
 
