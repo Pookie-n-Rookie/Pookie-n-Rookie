@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Refactoring my life choices (O(n!) complexity).
- 🧩 Architecture: Microservices in the streets, Monolithic breakdown in the sheets.
+ 🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: 0 bugs found, 100% locked in.
 ```
 
