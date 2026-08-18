@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Architecting systems and writing prompts that actually convert.
- 🧩 Architecture: Microservices separated by logic, united by APIs.
+ 🧩 Architecture: Microservices in the streets, Monolithic breakdown in the sheets.
  📊 Vibe Check: 0 bugs found, 100% locked in.
 ```
 
