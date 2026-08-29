@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Refactoring my life choices (O(n!) complexity).
- 🧩 Architecture: Scaling horizontally until my bank account vertically crashes.
+ 🧩 Architecture: If it compiles, it's an architecture.
  📊 Vibe Check: Currently carrying the backend on my back.
 ```
 
