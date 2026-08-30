@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Refactoring my life choices (O(n!) complexity).
  🧩 Architecture: Event-driven chaos architecture.
- 📊 Vibe Check: 0 bugs found, 100% locked in.
+ 📊 Vibe Check: Powered by sheer panic and caffeine.
 ```
 
 <div align="center">
