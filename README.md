@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Manifesting zero merge conflicts.
  🧩 Architecture: If it compiles, it's an architecture.
- 📊 Vibe Check: Powered by sheer panic and caffeine.
+ 📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
 <div align="center">
