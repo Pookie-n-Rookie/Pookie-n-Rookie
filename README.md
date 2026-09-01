@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Debugging my sleep schedule. No cap.
- 🧩 Architecture: If it compiles, it's an architecture.
+ 🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
