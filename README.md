@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Manifesting zero merge conflicts.
+ 🕶️ Currently: Debugging my sleep schedule. No cap.
  🧩 Architecture: If it compiles, it's an architecture.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
