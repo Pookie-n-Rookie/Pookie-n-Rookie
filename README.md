@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Manifesting zero merge conflicts.
- 🧩 Architecture: Scaling horizontally until my bank account vertically crashes.
+ 🧩 Architecture: If it compiles, it's an architecture.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
