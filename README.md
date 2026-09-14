@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Manifesting zero merge conflicts.
  🧩 Architecture: Microservices separated by logic, united by APIs.
- 📊 Vibe Check: 0 bugs found, 100% locked in.
+ 📊 Vibe Check: Currently carrying the backend on my back.
 ```
 
 <div align="center">
