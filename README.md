@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Debugging my sleep schedule. No cap.
- 🧩 Architecture: Microservices separated by logic, united by APIs.
+ 🧩 Architecture: Coupled tightly, deployed lightly.
  📊 Vibe Check: Currently carrying the backend on my back.
 ```
 
