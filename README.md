@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Manifesting zero merge conflicts.
+ 🕶️ Currently: Debugging my sleep schedule. No cap.
  🧩 Architecture: Microservices separated by logic, united by APIs.
  📊 Vibe Check: Currently carrying the backend on my back.
 ```
