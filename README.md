@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Let him cook (I am burning the AWS servers down).
- 🧩 Architecture: Coupled tightly, deployed lightly.
+ 🧩 Architecture: If it compiles, it's an architecture.
  📊 Vibe Check: Currently carrying the backend on my back.
 ```
 
