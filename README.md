@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Writing code that even I won't understand tomorrow.
- 🧩 Architecture: Microservices separated by logic, united by APIs.
+ 🧩 Architecture: Coupled tightly, deployed lightly.
  📊 Vibe Check: Powered by sheer panic and caffeine.
 ```
 
