@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Refactoring my life choices (O(n!) complexity).
  🧩 Architecture: Event-driven chaos architecture.
- 📊 Vibe Check: Code quality: A+ | Mental stability: 404 Not Found.
+ 📊 Vibe Check: Currently carrying the backend on my back.
 ```
 
 <div align="center">
