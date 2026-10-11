@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Architecting systems and writing prompts that actually convert.
  🧩 Architecture: Scaling horizontally until my bank account vertically crashes.
- 📊 Vibe Check: Currently carrying the backend on my back.
+ 📊 Vibe Check: 0 bugs found, 100% locked in.
 ```
 
 <div align="center">
