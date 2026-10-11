@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Manifesting zero merge conflicts.
+ 🕶️ Currently: Architecting systems and writing prompts that actually convert.
  🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: Currently carrying the backend on my back.
 ```
