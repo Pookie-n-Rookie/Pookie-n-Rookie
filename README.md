@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Architecting systems and writing prompts that actually convert.
- 🧩 Architecture: If it compiles, it's an architecture.
+ 🧩 Architecture: Microservices in the streets, Monolithic breakdown in the sheets.
  📊 Vibe Check: 1 bug fixed, 99 new ones created.
 ```
 
