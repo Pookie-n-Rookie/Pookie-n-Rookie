@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Manifesting zero merge conflicts.
+ 🕶️ Currently: Architecting systems and writing prompts that actually convert.
  🧩 Architecture: If it compiles, it's an architecture.
  📊 Vibe Check: 1 bug fixed, 99 new ones created.
 ```
