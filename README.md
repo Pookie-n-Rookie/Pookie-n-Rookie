@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Debugging my sleep schedule. No cap.
  🧩 Architecture: Event-driven chaos architecture.
- 📊 Vibe Check: 0 bugs found, 100% locked in.
+ 📊 Vibe Check: Currently carrying the backend on my back.
 ```
 
 <div align="center">
