@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Debugging my sleep schedule. No cap.
+ 🕶️ Currently: Writing code that even I won't understand tomorrow.
  🧩 Architecture: Event-driven chaos architecture.
  📊 Vibe Check: Currently carrying the backend on my back.
 ```
