@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Manifesting zero merge conflicts.
- 🧩 Architecture: Event-driven chaos architecture.
+ 🧩 Architecture: Microservices separated by logic, united by APIs.
  📊 Vibe Check: Currently carrying the backend on my back.
 ```
 
