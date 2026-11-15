@@ -90,7 +90,7 @@ $ sonarqube-scanner
 ```java
  🕶️ Currently: Writing code that even I won't understand tomorrow.
  🧩 Architecture: If it compiles, it's an architecture.
- 📊 Vibe Check: Currently carrying the backend on my back.
+ 📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
 <div align="center">
