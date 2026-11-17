@@ -88,7 +88,7 @@ $ sonarqube-scanner
 <br>
 
 ```java
- 🕶️ Currently: Writing code that even I won't understand tomorrow.
+ 🕶️ Currently: Pushing straight to main because I like to live dangerously.
  🧩 Architecture: If it compiles, it's an architecture.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
