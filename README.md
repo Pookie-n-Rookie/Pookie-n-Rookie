@@ -89,7 +89,7 @@ $ sonarqube-scanner
 
 ```java
  🕶️ Currently: Architecting systems and writing prompts that actually convert.
- 🧩 Architecture: Event-driven chaos architecture.
+ 🧩 Architecture: If it compiles, it's an architecture.
  📊 Vibe Check: My code works, but I honestly don't know why.
 ```
 
